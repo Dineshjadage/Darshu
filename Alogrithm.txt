@@ -1,0 +1,23 @@
+write any algorithem for greatest 3 number 
+
+step 1= start
+step2= read any three interger 
+step3=compare a with b&c and compare with A&C if a>b &a>c print (a)
+ifb>a &b>c 
+print(b)
+eise
+print (c)
+step4=stop 
+
+
+write any algorithem for smollest of 3 number 
+
+step1= start 
+step2= read any three integer 
+step3=compar a with b&c and compar b with a&c 
+if a<b and a<c
+print(a)
+else if b<a & b<c 
+print (b) 
+else print (c) 
+step4=stop  
